@@ -1,0 +1,13 @@
+groq
+python-dotenv
+requests
+python-telegram-bot
+psutil
+apscheduler
+google-auth
+google-auth-oauthlib
+google-api-python-client
+sounddevice
+numpy
+speechrecognition
+pywin32
